@@ -13,7 +13,7 @@ const FindUs = () => {
       date: new Date(2023, 5, 15),
       location: "1st Ave & University Blvd, Denver, CO",
       description: "Join us for fresh, gourmet hot dogs at this fantastic farmers market.",
-      imageUrl: "https://images.unsplash.com/photo-1582562124811-c09040d0a901"
+      imageUrl: "/images/pearlstreetcrowd.jpg"
     },
     {
       title: "Food Truck Friday",
@@ -54,17 +54,17 @@ const FindUs = () => {
   
   const locations = [
     {
-      name: "Biker Jim's Dogs - Downtown",
-      address: "2148 Larimer St, Denver, CO 80205",
+      name: "Colorado Convention Center",
+      address: "Denver, CO 80205",
       phone: "(720) 746-9355", 
       hours: "Mon-Thu 11am-10pm, Fri-Sat 11am-2am, Sun 11am-9pm",
-      mapUrl: "https://maps.google.com/?q=2148+Larimer+St,+Denver,+CO+80205"
+      mapUrl: "https://maps.app.goo.gl/nygAKtdxhj6hQrGP7"
     },
     {
-      name: "Coors Field Location",
-      address: "2001 Blake St, Denver, CO 80205",
+      name: "South Pearl Street",
+      address: "1527 S Pearl St, Denver, CO 80210",
       phone: "(720) 865-2695",
-      hours: "During all Colorado Rockies home games",
+      hours: "9am - 1pm",
       mapUrl: "https://maps.google.com/?q=2001+Blake+St,+Denver,+CO+80205"
     }
   ];
@@ -223,7 +223,7 @@ const FindUs = () => {
               </div>
               <div 
                 className="h-64 md:h-auto bg-center bg-cover"
-                style={{ backgroundImage: "url('https://images.unsplash.com/photo-1582562124811-c09040d0a901')" }}
+                style={{ backgroundImage: "url('/images/unionstation.jpg')" }}
               ></div>
             </div>
           </div>

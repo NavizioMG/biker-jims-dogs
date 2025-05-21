@@ -19,25 +19,25 @@ const Homepage = () => {
       name: 'Rattlesnake & Pheasant',
       description: 'Exotic blend of rattlesnake and pheasant with green chilies, topped with harissa roasted cactus.',
       price: '$11.95',
-      image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb',
+      image: 'https://images.unsplash.com/photo-1721648373047-c93f00652785',
       featured: true
     }
   ];
   
   const upcomingEvents = [
     {
-      title: "Cherry Creek Farmers Market",
+      title: "South Pearl St. Farmers Market",
       date: new Date(2023, 5, 15),
-      location: "1st Ave & University Blvd, Denver, CO",
+      location: "Denver, CO",
       description: "Join us for fresh, gourmet hot dogs at this fantastic farmers market.",
-      imageUrl: "https://images.unsplash.com/photo-1582562124811-c09040d0a901"
+      imageUrl: "/images/pearlstreetcrowd.jpg"
     },
     {
-      title: "Food Truck Friday",
+      title: "Colorado Convention Center",
       date: new Date(2023, 5, 17),
-      location: "Civic Center Park, Denver, CO",
+      location: "Denver, CO",
       description: "Weekly food truck gathering with live music and local brews.",
-      imageUrl: "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+      imageUrl: "/images/denverconventioncenter.jpg"
     }
   ];
   
@@ -78,7 +78,7 @@ const Homepage = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1582562124811-c09040d0a901" 
+                src="/images/biker_jim_about.jpg" 
                 alt="Biker Jim" 
                 className="rounded-lg shadow-xl"
               />
@@ -183,7 +183,7 @@ const Homepage = () => {
             </div>
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1506744038136-46273834b3fb" 
+                src="/images/hotdog-cart.jpg" 
                 alt="Biker Jim's Catering" 
                 className="rounded-lg shadow-xl"
               />

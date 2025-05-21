@@ -35,7 +35,7 @@ const Contact = () => {
                   <MapPin size={24} className="text-bikerRed mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Visit Us</h3>
-                    <p className="text-bikerGray">2148 Larimer St, Denver, CO 80205</p>
+                    <p className="text-bikerGray">Denver, CO 80205</p>
                     <a 
                       href="https://maps.google.com/?q=2148+Larimer+St,+Denver,+CO+80205" 
                       target="_blank" 

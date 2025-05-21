@@ -38,7 +38,7 @@ const Catering = () => {
             </div>
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1618160702438-9b02ab6515c9" 
+                src="https://images.unsplash.com/photo-1721710363291-c5181c534f4d" 
                 alt="Biker Jim's Catering Setup" 
                 className="rounded-lg shadow-lg"
               />

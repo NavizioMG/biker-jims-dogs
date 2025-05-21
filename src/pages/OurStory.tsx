@@ -23,7 +23,7 @@ const OurStory = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1582562124811-c09040d0a901" 
+                src="/images/jim_speaking.jpg" 
                 alt="Biker Jim portrait" 
                 className="rounded-lg shadow-lg"
               />
@@ -59,7 +59,7 @@ const OurStory = () => {
             
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1618160702438-9b02ab6515c9" 
+                src="/images/16th_street.jpg" 
                 alt="Biker Jim's food cart" 
                 className="rounded-lg shadow-lg"
               />
@@ -69,7 +69,7 @@ const OurStory = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1506744038136-46273834b3fb" 
+                src="/images/jim_catering.jpg" 
                 alt="Biker Jim's restaurant" 
                 className="rounded-lg shadow-lg"
               />

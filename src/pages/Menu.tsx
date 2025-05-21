@@ -9,7 +9,7 @@ const Menu = () => {
       name: 'Alaskan Reindeer',
       description: 'Our signature wild game dog topped with caramelized onions and cream cheese.',
       price: '$9.95',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9',
+      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c',
       featured: true
     },
     {
