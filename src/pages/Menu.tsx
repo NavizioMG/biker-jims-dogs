@@ -224,7 +224,10 @@ const Menu = () => {
       </section>
       
       {/* CTA Section */}
-      <CTA />
+      <CTA
+        buttonText="Book Catering Now"
+        buttonLink="/catering"
+      />
     </>
   );
 };
