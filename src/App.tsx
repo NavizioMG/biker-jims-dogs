@@ -12,7 +12,7 @@ import Catering from "./pages/Catering";
 import FindUs from "./pages/FindUs";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
-import ScrollToTop from "@/components/layout/ScrollToTop";
+import ScrollToTop from "@/components/Layout/ScrollToTop";
 
 const queryClient = new QueryClient();
 
