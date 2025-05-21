@@ -48,7 +48,7 @@ const Homepage = () => {
         <div 
           className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/30"
           style={{
-            backgroundImage: "url('https://images.unsplash.com/photo-1618160702438-9b02ab6515c9')",
+            backgroundImage: "url('https://images.unsplash.com/photo-1619740455993-9e612b1af08a?q=80&w=3270')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundBlendMode: "multiply",
